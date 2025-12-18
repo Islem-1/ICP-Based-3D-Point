@@ -20,5 +20,5 @@ This project demonstrates **3D point cloud registration** using the **Iterative 
 1. Place your `.obj` mesh in the folder.
 2. Run the script:
 ```bash
-python 3D_annimation.py
+python 3Dannimation.py
 
